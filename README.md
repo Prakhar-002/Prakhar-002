@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 🔭 I’m currently working on MERN stack project.<br>
-🌱 I’m currently learning MERN stack and DSA with JAVA.<br>
+🌱 I’m currently learning MERN stack and DSA with JAVA/PYTHON/JAVASCRIPT.<br>
 💬 Ask me about Java, JavaSript.<br>
 📫 How to reach me: prakhar.katiyar.002@gmail.com<br>
 ⚡ Fun fact about me is I usually end a comment with 3 dot ...
