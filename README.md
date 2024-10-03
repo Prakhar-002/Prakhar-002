@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on MERN stack project.<br>
-🌱 I’m currently learning MERN stack and DSA with JAVA / C++ / PYTHON / JAVASCRIPT .<br>
-💬 Ask me about Java, JavaSript.<br>
-📫 How to reach me: prakhar.katiyar.002@gmail.com<br>
-⚡ Fun fact about me is I usually end a comment with 3 dot ...
+
+🔭 Currently working on `MERN stack projects`, focusing on user-friendly web apps. <br>
+🌱 Learning MERN stack and DSA with `Java`, `C++`, `Python`, and `JavaScript`. <br>
+💬 Ask me anything about `Java` and `JavaScript` Happy to share my insights! <br>
+📫 Contact me at ➺ prakhar.katiyar.002@gmail.com <br>
+⚡ Fun fact ➺ I tend to end comments with 3 dots... <br>
 
 
 # 👨🏻‍💻 Tech Stack ✒️
