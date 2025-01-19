@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ##### 🔭 Currently working on `MERN stack projects`, focusing on user-friendly web apps. <br>
 ##### 🌱 Learning MERN stack and DSA with `Java`, `C++`, `Python`, and `JavaScript`. <br>
-##### 💬 Ask me anything about `Java` and `JavaScript` Happy to share my insights! <br>
+##### 💬 Ask me anything about `Java`, `Python` and `JavaScript` Happy to share my insights! <br>
 ##### 📫 Contact me at ➺ prakhar.katiyar.002@gmail.com <br>
 ##### ⚡ Fun fact ➺ I tend to end comments with 3 dots... <br>
 
