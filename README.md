@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
    👨🏻‍💻 Full-Stack Developer | 👻 MERN Stack Enthusiast | 🕵🏻 DSA Explorer <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffee&center=true&vCenter=true&width=500&lines=Code.+Create.+Repeat.;Stay+Curious+%F0%9F%98%83;Debug.+Deploy.+Deliver.;Building+One+Project+at+a+Time.;Typing+Code+with+Coffee+%E2%98%95;Dream+%E2%9C%A8+Build+%F0%9F%9B%A0+Conquer+%F0%9F%91%8C;&cursorColor=ff4ecd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffee&center=true&vCenter=true&width=500&lines=Code.+Create.+Repeat.;Stay+Curious+💭;Debug.+Deploy.+Deliver.;Building+One+Project+at+a+Time📑.;Typing+Code+with+Coffee+%E2%98%95.;Dream+💡+Build+🛠️+Conquer+❤️;&cursorColor=ff4ecd" alt="Typing SVG" />
 
 </p>
 
