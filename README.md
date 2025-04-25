@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📚 Expanding my expertise in Full-Stack Development and DSA with `Java`, `C++`, `Python`, and `JavaScript`.  
 - 🗣️ Open to discussions on `Java`, `Python`, or `JavaScript` best practices.  
 - 🔍 Passionate about problem-solving and writing maintainable code.  
-- ⚡ **Fun Fact**: I end comments with three dots... and prefer a **6-space tab** for clarity.
+- ⚡ **Fun Fact**: I end comments with three dots... && prefer a **6-space tab** for clarity.
 
 # 👨🏻‍💻 Tech Stack ✒️
 
