@@ -1,4 +1,3 @@
-
 <!--
 **Prakhar-002/Prakhar-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,20 +52,31 @@ Here are some ideas to get you started:
 
 <h3  align="center" >
 
-[<img src="https://github.com/user-attachments/assets/14b5b851-40a1-4903-9eb8-9e4c63ee415d" title="CYBER FICTION - A 3D-Animation-site 🍥" width="90" height="90" alt="CYBER FICTION - A 3D-Animation-site 🍥">](https://github.com/Prakhar-002/3D-Animation-Site)
-[<img src="https://github.com/user-attachments/assets/c5da9c67-afb1-4e44-8474-2e5dd5bf6527" title="Weather App ☁️🌡️" width="90" height="90" alt="Weather App ☁️🌡️">](https://github.com/Prakhar-002/Weatherio-The-weather-app)
-[<img src="https://github.com/user-attachments/assets/50c37220-ff8a-4f91-b30c-d9f45cebcc34" title="GrillBurger - 🍔 Satisfy Your Hunger!" width="90" height="90" alt="GrillBurger - 🍔 Satisfy Your Hunger!">](https://github.com/Prakhar-002/GrillBurger)
-[<img src="https://github.com/user-attachments/assets/2f8c7de8-20e5-4e3c-b958-b8ede09b8fe9" title="GRILLI-The-Food-App 🌯🍱🍜🍲" width="90" height="90" alt="GRILLI-The-Food-App 🌯🍱🍜🍲">](https://github.com/Prakhar-002/GRILLI-The-Food-App)
-[<img src="https://github.com/user-attachments/assets/33a4543d-d46c-4d07-aafe-0c969f496fde" title="Photographer Portfolio 📸✨" width="90" height="90" alt="Photographer Portfolio 📸✨">](https://github.com/Prakhar-002/Photographer-Portfolio)
-[<img src="https://github.com/user-attachments/assets/10084b75-eb73-40b7-938b-9e4a8b8679fe" title="Tvflix - Movie App 🍿🎥 ✮" width="90" height="90" alt="Tvflix - Movie App 🍿🎥 ✮">](https://github.com/Prakhar-002/TVFLIX)
-
-</br>
-
-[<img src="https://github.com/user-attachments/assets/f4306a3c-d464-4723-bd32-0cc06afdccb9" title="Cook.io – Your Recipe Companion 🥤🥗🍟" width="90" height="90" alt="Cook.io – Your Recipe Companion 🥤🥗🍟">](https://github.com/Prakhar-002/Cook.io-The-Recipe-App)
-[<img src="https://github.com/user-attachments/assets/797f40b7-14a3-4331-81fb-5966aeac95a9" title="WANDERLUST ➺🧳Your Gateway to Global Adventures ✈️" width="90" height="90" alt="WANDERLUST ➺🧳Your Gateway to Global Adventures ✈️">](https://github.com/Prakhar-002/WANDERLUST)
-[<img src="https://github.com/user-attachments/assets/62bf643a-c14f-40e0-b9fe-ec8c01a8cb45" title="INKTALE ➺ 🖊️ Unleash Your Stories 📖" width="90" height="90" alt="INKTALE ➺ 🖊️ Unleash Your Stories 📖">](https://github.com/Prakhar-002/INKTALE-The-Blog-Site)
-[<img src="https://github.com/user-attachments/assets/55073950-c132-45f3-a0a5-647c68ff8b2b" title="PIXSTOCK - Manage Your Visual World 🌟🎨" width="90" height="90" alt="PIXSTOCK - Manage Your Visual World 🌟🎨">](https://github.com/Prakhar-002/PIXSTOCK)
-[<img src="https://github.com/user-attachments/assets/0344e433-bd52-4618-b83e-59bb5a2fc2c4" title="PHOENIX ➺ The Evolution of AI Conversations" width="90" height="90" alt="PHOENIX ➺ The Evolution of AI Conversations">](https://github.com/Prakhar-002/PHOENIX)
+[<img src="https://github.com/user-attachments/assets/47632471-1ed4-4a0e-aa09-b462dca54ba6" title="CYBER FICTION - A 3D-Animation-site 🍥" width="90" height="90" alt="CYBER FICTION - A 3D-Animation-site 🍥">](https://github.com/Prakhar-002/3D-Animation-Site)
+[<img src="https://github.com/user-attachments/assets/729bad82-91c2-4d38-b471-14a9d02e007f" title="Spotify-Clone 📀🪐" width="90" height="90" alt="Spotify-Clone 📀🪐">](https://github.com/Prakhar-002/SPOTIFY-CLONE)
+[<img src="https://github.com/user-attachments/assets/c36dcfaa-b688-4f3c-a5b7-994465daa2c7" title="Weather App ☁️🌡️" width="90" height="90" alt="Weather App ☁️🌡️">](https://github.com/Prakhar-002/Weatherio-The-weather-app)
+[<img src="https://github.com/user-attachments/assets/edb37782-14f4-462e-82c7-c1ffad1994e3" title="GrillBurger - 🍔 Satisfy Your Hunger!" width="90" height="90" alt="GrillBurger - 🍔 Satisfy Your Hunger!">](https://github.com/Prakhar-002/GrillBurger)
+[<img src="https://github.com/user-attachments/assets/35073dbc-4970-4cab-bbf8-0e588e418809" title="GRILLI-The-Food-App 🌯🍱🍜🍲" width="90" height="90" alt="GRILLI-The-Food-App 🌯🍱🍜🍲">](https://github.com/Prakhar-002/GRILLI-The-Food-App)
+[<img src="https://github.com/user-attachments/assets/3e7ca22a-23ae-42c9-adbd-45ed92614e7e" title="Photographer Portfolio 📸✨" width="90" height="90" alt="Photographer Portfolio 📸✨">](https://github.com/Prakhar-002/Photographer-Portfolio)
+[<img src="https://github.com/user-attachments/assets/9656bb5d-6c92-434d-ac0c-472ed0c9e263" title="Tvflix - Movie App 🍿🎥 ✮" width="90" height="90" alt="Tvflix - Movie App 🍿🎥 ✮">](https://github.com/Prakhar-002/TVFLIX)
+[<img src="https://github.com/user-attachments/assets/a435e34e-f7af-4de0-8116-b822b778ee2a" title="Cook.io – Your Recipe Companion 🥤🥗🍟" width="90" height="90" alt="Cook.io – Your Recipe Companion 🥤🥗🍟">](https://github.com/Prakhar-002/Cook.io-The-Recipe-App)
+[<img src="https://github.com/user-attachments/assets/efd6d9f5-f885-4cad-87c2-78f46bf83146" title="PIXSTOCK - Manage Your Visual World 🌟🎨" width="90" height="90" alt="PIXSTOCK - Manage Your Visual World 🌟🎨">](https://github.com/Prakhar-002/PIXSTOCK)
+[<img src="https://github.com/user-attachments/assets/0533d573-ac3b-4e95-9c7c-ed4f40fee24c" title="Data Structures 🧬 and Algorithms 📜 in C" width="90" height="90" alt="Data Structures 🧬 and Algorithms 📜 in C">](https://github.com/Prakhar-002/C-CODE)
+[<img src="https://github.com/user-attachments/assets/1a500bb0-7ce3-4530-a0f8-f3c593eedabb" title="Data Structures 🧬 and Algorithms 📜 in JAVA" width="90" height="90" alt="Data Structures 🧬 and Algorithms 📜 in JAVA">](https://github.com/Prakhar-002/JAVA-CODE)
+[<img src="https://github.com/user-attachments/assets/060732d9-af0e-4181-b2cc-218d17d35dec" title="🐼 ραη∂αѕ & ηυмρу 🧮" width="90" height="90" alt="🐼 ραη∂αѕ & ηυмρу 🧮">](https://github.com/Prakhar-002/PANDAS-NUMPY)
+[<img src="https://github.com/user-attachments/assets/b52704e3-20a5-4ff6-bc0e-0231b4b1d585" title="🐼 ραη∂αѕ & ηυмρу 🧮" width="90" height="90" alt="🐼 ραη∂αѕ & ηυмρу 🧮">](https://github.com/Prakhar-002/PANDAS-NUMPY)
+[<img src="https://github.com/user-attachments/assets/4352e3a7-e3fb-42f6-8396-628bb80164f1" title="WANDERLUST ➺🧳Your Gateway to Global Adventures ✈️" width="90" height="90" alt="WANDERLUST ➺🧳Your Gateway to Global Adventures ✈️">](https://github.com/Prakhar-002/WANDERLUST)
+[<img src="https://github.com/user-attachments/assets/7e5cd33b-cad8-4ea8-9ef8-a7271a873ad2" title="INKTALE ➺ 🖊️ Unleash Your Stories 📖" width="90" height="90" alt="INKTALE ➺ 🖊️ Unleash Your Stories 📖">](https://github.com/Prakhar-002/INKTALE-The-Blog-Site)
+[<img src="https://github.com/user-attachments/assets/957475c4-a57c-4026-a740-6d195f23354e" title="PHOENIX ➺ The Evolution of AI Conversations" width="90" height="90" alt="PHOENIX ➺ The Evolution of AI Conversations">](https://github.com/Prakhar-002/PHOENIX)
+[<img src="https://github.com/user-attachments/assets/969886d1-1df4-4c62-8c2b-a819b8bf489e" title="ShopNest - Mern Stack" width="90" height="90" alt="ShopNest - Mern Stack">](https://github.com/Prakhar-002/ShopNest)
+[<img src="https://github.com/user-attachments/assets/db80d9b3-329b-48bf-a4d2-e6d9ac868a17" title="React-Monster-Course" width="90" height="90" alt="React-Monster-Course">](https://github.com/Prakhar-002/React-Monster-Course)
+[<img src="https://github.com/user-attachments/assets/342375d6-c65f-4b74-8920-7d341f9d88e0" title="TypeScript Essentials" width="90" height="90" alt="TypeScript Essentials">](https://github.com/Prakhar-002/TypeScript)
+[<img src="https://github.com/user-attachments/assets/d9a79544-0124-440d-9168-368b4ac39de2" title="Framer Motion With Projects" width="90" height="90" alt="Framer Motion">](https://github.com/Prakhar-002/React-Monster-Course/tree/main/09.%20Framer%20Motion%20With%2010%20Projects)
+[<img src="https://github.com/user-attachments/assets/090a2f3c-bf53-4388-a3d7-8d29de2b11fd" title="Zustand With Projects" width="90" height="90" alt="Zustand With 10 Projects">](https://github.com/Prakhar-002/React-Monster-Course/tree/main/10.%20Zustand%20With%2010%20Projects)
+[<img src="https://github.com/user-attachments/assets/83406c2d-04c1-44c4-a6fa-63205ffbaf59" title="Redux Toolkit" width="90" height="90" alt="Redux Toolkit">](https://github.com/Prakhar-002/React-Monster-Course/tree/main/11.%20Redux%20Toolkit)
+[<img src="https://github.com/user-attachments/assets/564fc94f-aee6-421f-ba80-d87b688050ba" title="🏎️ 𝐍𝐞𝐱𝐭.𝐣𝐬 💨" width="90" height="90" alt="🏎️ 𝐍𝐞𝐱𝐭.𝐣𝐬 💨">](https://github.com/Prakhar-002/Next.js)
+[<img src="https://github.com/user-attachments/assets/e50d743a-b342-44e4-835a-4f61f69feafe" title="Prisma" width="90" height="90" alt="Prisma">](https://github.com/Prakhar-002/Next.js/tree/main/22.%20Prisma)
+[<img src="https://github.com/user-attachments/assets/84b55d8a-45e1-4b47-b51a-030c350665e0" title="ZOD" width="90" height="90" alt="ZOD">](https://github.com/Prakhar-002/Next.js/tree/main/24.%20ZOD)
 
 </h3>
 
