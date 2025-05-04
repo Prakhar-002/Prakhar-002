@@ -45,6 +45,29 @@ Here are some ideas to get you started:
 
 </br>
 
+
+
+<h3  align="center" >
+
+[<img src="https://github.com/user-attachments/assets/14b5b851-40a1-4903-9eb8-9e4c63ee415d" title="CYBER FICTION - A 3D-Animation-site 🍥" width="90" height="90" alt="CYBER FICTION - A 3D-Animation-site 🍥">](https://github.com/Prakhar-002/3D-Animation-Site)
+[<img src="https://github.com/user-attachments/assets/c5da9c67-afb1-4e44-8474-2e5dd5bf6527" title="Weather App ☁️🌡️" width="90" height="90" alt="Weather App ☁️🌡️">](https://github.com/Prakhar-002/Weatherio-The-weather-app)
+[<img src="https://github.com/user-attachments/assets/50c37220-ff8a-4f91-b30c-d9f45cebcc34" title="GrillBurger - 🍔 Satisfy Your Hunger!" width="90" height="90" alt="GrillBurger - 🍔 Satisfy Your Hunger!">](https://github.com/Prakhar-002/GrillBurger)
+[<img src="https://github.com/user-attachments/assets/2f8c7de8-20e5-4e3c-b958-b8ede09b8fe9" title="GRILLI-The-Food-App 🌯🍱🍜🍲" width="90" height="90" alt="GRILLI-The-Food-App 🌯🍱🍜🍲">](https://github.com/Prakhar-002/GRILLI-The-Food-App)
+[<img src="https://github.com/user-attachments/assets/33a4543d-d46c-4d07-aafe-0c969f496fde" title="Photographer Portfolio 📸✨" width="90" height="90" alt="Photographer Portfolio 📸✨">](https://github.com/Prakhar-002/Photographer-Portfolio)
+[<img src="https://github.com/user-attachments/assets/10084b75-eb73-40b7-938b-9e4a8b8679fe" title="Tvflix - Movie App 🍿🎥 ✮" width="90" height="90" alt="Tvflix - Movie App 🍿🎥 ✮">](https://github.com/Prakhar-002/TVFLIX)
+
+</br>
+
+[<img src="https://github.com/user-attachments/assets/f4306a3c-d464-4723-bd32-0cc06afdccb9" title="Cook.io – Your Recipe Companion 🥤🥗🍟" width="90" height="90" alt="Cook.io – Your Recipe Companion 🥤🥗🍟">](https://github.com/Prakhar-002/Cook.io-The-Recipe-App)
+[<img src="https://github.com/user-attachments/assets/797f40b7-14a3-4331-81fb-5966aeac95a9" title="WANDERLUST ➺🧳Your Gateway to Global Adventures ✈️" width="90" height="90" alt="WANDERLUST ➺🧳Your Gateway to Global Adventures ✈️">](https://github.com/Prakhar-002/WANDERLUST)
+[<img src="https://github.com/user-attachments/assets/62bf643a-c14f-40e0-b9fe-ec8c01a8cb45" title="INKTALE ➺ 🖊️ Unleash Your Stories 📖" width="90" height="90" alt="INKTALE ➺ 🖊️ Unleash Your Stories 📖">](https://github.com/Prakhar-002/INKTALE-The-Blog-Site)
+[<img src="https://github.com/user-attachments/assets/55073950-c132-45f3-a0a5-647c68ff8b2b" title="PIXSTOCK - Manage Your Visual World 🌟🎨" width="90" height="90" alt="PIXSTOCK - Manage Your Visual World 🌟🎨">](https://github.com/Prakhar-002/PIXSTOCK)
+[<img src="https://github.com/user-attachments/assets/0344e433-bd52-4618-b83e-59bb5a2fc2c4" title="PHOENIX ➺ The Evolution of AI Conversations" width="90" height="90" alt="PHOENIX ➺ The Evolution of AI Conversations">](https://github.com/Prakhar-002/PHOENIX)
+
+</h3>
+
+</br>
+
 # Dynamic Data Structures 🏗️ & Optimized Algorithms ⚙️
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
