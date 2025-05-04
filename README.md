@@ -38,10 +38,14 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
+<h3  align="center" >
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar-002&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp;&nbsp;
 ](https://github.com/Prakhar-002)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-002&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ](https://github.com/Prakhar-002)
+
+</h3>
 
 </br>
 
@@ -70,13 +74,20 @@ Here are some ideas to get you started:
 
 # Dynamic Data Structures 🏗️ & Optimized Algorithms ⚙️
 
+<h3  align="center" >
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+</h3>
 
 </br>
 
 ## 🔗 Connect with Me
 
-<a href="mailto:prakhar.katiyar.002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/prakhar002/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Prakhar-002/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<h3  align="center" >
 
+<a href="mailto:prakhar.katiyar.002@gmail.com"><img src="https://github.com/user-attachments/assets/d17ad93f-916b-4fd7-ad29-65ab3ba150e1"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prakhar002/" target="_blank"><img src="https://github.com/user-attachments/assets/8ddec6c8-cf8f-4702-9a52-0a7b28d1e48f"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/Prakhar_002" target="_blank"><img src="https://github.com/user-attachments/assets/95c27b51-a483-4e9b-84d2-bd954f805b0d"/></a>
+
+</h3>
