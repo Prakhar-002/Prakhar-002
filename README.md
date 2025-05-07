@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 <h3  align="center" >
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Prakhar-002&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp;&nbsp;
-](https://github.com/Prakhar-002)
+[![](https://nirzak-streak-stats.vercel.app/?user=Prakhar-002&theme=dark&hide_border=true)](https://github.com/Prakhar-002)&nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-002&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ](https://github.com/Prakhar-002)
 
