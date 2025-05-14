@@ -59,13 +59,17 @@
 [<img src="https://github.com/user-attachments/assets/564fc94f-aee6-421f-ba80-d87b688050ba" title="🏎️ 𝐍𝐞𝐱𝐭.𝐣𝐬 💨" width="90" height="90" alt="🏎️ 𝐍𝐞𝐱𝐭.𝐣𝐬 💨">](https://github.com/Prakhar-002/Next.js)
 [<img src="https://github.com/user-attachments/assets/e50d743a-b342-44e4-835a-4f61f69feafe" title="Prisma" width="90" height="90" alt="Prisma">](https://github.com/Prakhar-002/Next.js/tree/main/22.%20Prisma)
 [<img src="https://github.com/user-attachments/assets/84b55d8a-45e1-4b47-b51a-030c350665e0" title="ZOD" width="90" height="90" alt="ZOD">](https://github.com/Prakhar-002/Next.js/tree/main/24.%20ZOD)
+[<img src="https://github.com/user-attachments/assets/9f5bb554-f775-4241-bfb8-822ad679efbd" title="Devfolio" width="90" height="90" alt="LEETCODE">](https://github.com/Prakhar-002/Devfolio)
 [<img src="https://github.com/user-attachments/assets/af50d033-070e-4c97-8413-ed008c604983" title="LEETCODE" width="90" height="90" alt="LEETCODE">](https://github.com/Prakhar-002/LEETCODE)
+[<img src="https://github.com/user-attachments/assets/bd5adf25-bd01-4c84-923e-09ab6faf40ac" title="My-Portfolio" width="90" height="90" alt="LEETCODE">](https://github.com/Prakhar-002/My-Portfolio)
 
 </h3>
 
 # Dynamic Data Structures 🏗️ & Optimized Algorithms ⚙️
 
+
 <h3  align="center" >
+
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
