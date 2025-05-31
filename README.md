@@ -15,7 +15,7 @@
 - 📚 Expanding my expertise in Full-Stack Development and DSA with `Java`, `C++`, `Python`, and `JavaScript`.  
 - 🗣️ Open to discussions on `Java`, `Python`, or `JavaScript` best practices.  
 - 🔍 Passionate about problem-solving and writing maintainable code.  
-- ⚡ **Fun Fact**: I end comments with three dots... && prefer a **6-space tab** for clarity.
+- ⚡ **Fun Fact**: I end comments with three dots... 𝄞 prefer a **6-space tab** for clarity.
 
 # 👨🏻‍💻 Tech Stack ✒️
 
@@ -44,6 +44,7 @@
 [<img src="https://github.com/user-attachments/assets/9656bb5d-6c92-434d-ac0c-472ed0c9e263" title="Tvflix - Movie App 🍿🎥 ✮" width="90" height="90" alt="Tvflix - Movie App 🍿🎥 ✮">](https://github.com/Prakhar-002/TVFLIX)
 [<img src="https://github.com/user-attachments/assets/a435e34e-f7af-4de0-8116-b822b778ee2a" title="Cook.io – Your Recipe Companion 🥤🥗🍟" width="90" height="90" alt="Cook.io – Your Recipe Companion 🥤🥗🍟">](https://github.com/Prakhar-002/Cook.io-The-Recipe-App)
 [<img src="https://github.com/user-attachments/assets/efd6d9f5-f885-4cad-87c2-78f46bf83146" title="PIXSTOCK - Manage Your Visual World 🌟🎨" width="90" height="90" alt="PIXSTOCK - Manage Your Visual World 🌟🎨">](https://github.com/Prakhar-002/PIXSTOCK)
+[<img src="https://github.com/user-attachments/assets/9f5bb554-f775-4241-bfb8-822ad679efbd" title="Devfolio" width="90" height="90" alt="Devfolio">](https://github.com/Prakhar-002/Devfolio)
 [<img src="https://github.com/user-attachments/assets/0533d573-ac3b-4e95-9c7c-ed4f40fee24c" title="Data Structures 🧬 and Algorithms 📜 in C" width="90" height="90" alt="Data Structures 🧬 and Algorithms 📜 in C">](https://github.com/Prakhar-002/C-CODE)
 [<img src="https://github.com/user-attachments/assets/1a500bb0-7ce3-4530-a0f8-f3c593eedabb" title="Data Structures 🧬 and Algorithms 📜 in JAVA" width="90" height="90" alt="Data Structures 🧬 and Algorithms 📜 in JAVA">](https://github.com/Prakhar-002/JAVA-CODE)
 [<img src="https://github.com/user-attachments/assets/060732d9-af0e-4181-b2cc-218d17d35dec" title="🐼 ραη∂αѕ & ηυмρу 🧮" width="90" height="90" alt="🐼 ραη∂αѕ & ηυмρу 🧮">](https://github.com/Prakhar-002/PANDAS-NUMPY)
@@ -60,11 +61,12 @@
 [<img src="https://github.com/user-attachments/assets/564fc94f-aee6-421f-ba80-d87b688050ba" title="🏎️ 𝐍𝐞𝐱𝐭.𝐣𝐬 💨" width="90" height="90" alt="🏎️ 𝐍𝐞𝐱𝐭.𝐣𝐬 💨">](https://github.com/Prakhar-002/Next.js)
 [<img src="https://github.com/user-attachments/assets/e50d743a-b342-44e4-835a-4f61f69feafe" title="Prisma" width="90" height="90" alt="Prisma">](https://github.com/Prakhar-002/Next.js/tree/main/22.%20Prisma)
 [<img src="https://github.com/user-attachments/assets/84b55d8a-45e1-4b47-b51a-030c350665e0" title="ZOD" width="90" height="90" alt="ZOD">](https://github.com/Prakhar-002/Next.js/tree/main/24.%20ZOD)
-[<img src="https://github.com/user-attachments/assets/9f5bb554-f775-4241-bfb8-822ad679efbd" title="Devfolio" width="90" height="90" alt="LEETCODE">](https://github.com/Prakhar-002/Devfolio)
+[<img src="https://github.com/user-attachments/assets/33a116d2-7cc8-4efa-ac99-d4af07224578" title="GraphQL" width="90" height="90" alt="GraphQL">](https://github.com/Prakhar-002/GraphQL)
 [<img src="https://github.com/user-attachments/assets/af50d033-070e-4c97-8413-ed008c604983" title="LEETCODE" width="90" height="90" alt="LEETCODE">](https://github.com/Prakhar-002/LEETCODE)
-[<img src="https://github.com/user-attachments/assets/bd5adf25-bd01-4c84-923e-09ab6faf40ac" title="My-Portfolio" width="90" height="90" alt="LEETCODE">](https://github.com/Prakhar-002/My-Portfolio)
+[<img src="https://github.com/user-attachments/assets/bd5adf25-bd01-4c84-923e-09ab6faf40ac" title="My-Portfolio" width="90" height="90" alt="Prkhar-002 : Portfolio">](https://github.com/Prakhar-002/My-Portfolio)
 
 </h3>
+
 
 # Dynamic Data Structures 🏗️ & Optimized Algorithms ⚙️
 
