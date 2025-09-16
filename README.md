@@ -61,10 +61,11 @@
 [<img src="https://github.com/user-attachments/assets/84b55d8a-45e1-4b47-b51a-030c350665e0" title="ZOD" width="90" height="90" alt="ZOD">](https://github.com/Prakhar-002/Next.js/tree/main/24.%20ZOD)
 [<img src="https://github.com/user-attachments/assets/33a116d2-7cc8-4efa-ac99-d4af07224578" title="GraphQL" width="90" height="90" alt="GraphQL">](https://github.com/Prakhar-002/GraphQL)
 [<img src="https://github.com/user-attachments/assets/af50d033-070e-4c97-8413-ed008c604983" title="LEETCODE" width="90" height="90" alt="LEETCODE">](https://github.com/Prakhar-002/LEETCODE)
+[<img src="https://github.com/user-attachments/assets/e598a606-d68c-4cca-8dbd-e636b2ebd81a" title="Resumind" width="90" height="90" alt="Ai Resume Analyzer">](https://github.com/Prakhar-002/ai-resume-analyzer)
 [<img src="https://github.com/user-attachments/assets/bd5adf25-bd01-4c84-923e-09ab6faf40ac" title="My-Portfolio" width="90" height="90" alt="Prkhar-002 : Portfolio">](https://github.com/Prakhar-002/My-Portfolio)
+[<img src="https://github.com/user-attachments/assets/9b591845-b9a1-49dc-837b-609dc83716fb" title="Store-It" width="90" height="90" alt="Google Drive Clone">](https://github.com/Prakhar-002/Store-It)
 
 </h3>
-
 
 # Dynamic Data Structures 🏗️ & Optimized Algorithms ⚙️
 
