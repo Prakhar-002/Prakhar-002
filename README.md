@@ -6,7 +6,7 @@
 
 </p>
 
-## 💫 About Me
+# 💫 About Me
 
 - 💻 Developing **MERN stack projects** focused on clean and scalable interfaces.  
 - 📚 Expanding my expertise in Full-Stack Development and DSA with `Java`, `C++`, `Python`, and `JavaScript`.  
@@ -77,7 +77,7 @@
 
 </h3>
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 
 <h3  align="center" >
 
