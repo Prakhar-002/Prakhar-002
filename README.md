@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffee&center=true&vCenter=true&width=500&lines=Code.+Create.+Repeat.;Stay+Curious+💭;Debug.+Deploy.+Deliver.;Building+One+Project+at+a+Time📑.;Typing+Code+with+Coffee+%E2%98%95.;Dream+💡+Build+🛠️+Conquer+❤️;&cursorColor=ff4ecd" alt="Typing SVG" />
 
 </p>  
+
        
-  
 
 # 💫 About Me
 
