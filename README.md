@@ -6,9 +6,6 @@
 
 </p>  
 
-
-       
-
 # 💫 About Me
 
 - 💻 Developing **MERN stack projects** focused on clean and scalable interfaces.  
